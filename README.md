@@ -1,7 +1,7 @@
 ### Hi,everyone.This GhostCodeStudio's README
 I am from China,This is my 2nd GitHub account,there were some errors with my 1st account
 
-I am 14 years old,I like my computer very much
+I am 12 years old,I like my computer very much
 
 My 1st GitHub account is Ghost_in_China
 
